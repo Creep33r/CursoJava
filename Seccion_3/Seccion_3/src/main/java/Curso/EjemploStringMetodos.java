@@ -1,6 +1,5 @@
 package Curso;
 
-import java.sql.SQLOutput;
 
 public class EjemploStringMetodos {
 
