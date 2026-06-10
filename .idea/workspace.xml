@@ -5,6 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f27f2ee4-1e2e-40b0-a900-84030de05d2d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Seccion_5/FlujosDeControl/src/main/java/Curso/MenuOpcionesIterativo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seccion_5/FlujosDeControl/src/main/java/Curso/MultiplicarDosNumeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seccion_5/FlujosDeControl/src/main/java/Curso/NotasFinales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seccion_5/FlujosDeControl/src/main/java/Curso/SentenciForArreglo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seccion_5/FlujosDeControl/src/main/java/Curso/SentenciaBucleEtiqueta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seccion_5/FlujosDeControl/src/main/java/Curso/SentenciaFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seccion_5/FlujosDeControl/src/main/java/Curso/SentenciaFor_Each.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seccion_5/FlujosDeControl/src/main/java/Curso/SentenciaIfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seccion_5/FlujosDeControl/src/main/java/Curso/SentenciaIfElseNumDiasMes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seccion_5/FlujosDeControl/src/main/java/Curso/SentenciaSwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seccion_5/FlujosDeControl/src/main/java/Curso/SentenciaSwitchCaseNumDiasMes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seccion_5/FlujosDeControl/src/main/java/Curso/SentenciaWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seccion_5/FlujosDeControl/src/main/java/Curso/SentenciasBucleEtiquetasBuscar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,7 +26,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="106" />
+    <option name="cachedIndexableFilesCount" value="155" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,27 +56,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.OperadoresAritmetico.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "F:/CursoJava",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.OperadoresAritmetico.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/CursoJava&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="OperadoresAritmetico" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Curso.OperadoresAritmetico" />
@@ -101,6 +114,7 @@
       <updated>1780630655882</updated>
       <workItem from="1780630656970" duration="1155000" />
       <workItem from="1780784794650" duration="155000" />
+      <workItem from="1781046322874" duration="690000" />
     </task>
     <servers />
   </component>
